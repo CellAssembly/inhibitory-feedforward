@@ -1,4 +1,5 @@
-# inhibitory-feedforward
+# Feedforward architectures driven by inhibitory interaction patterns
 Yazan N. Billeh and Michael T. Schaub.
 
-The code for the manuscript entitled "Feedforward architectures driven by inhibitory interaction patterns" will be available here once the paper is accepted for publication.
+This repository provides code for the manuscript entitled "Feedforward architectures driven by inhibitory interaction patterns" 
+https://arxiv.org/abs/1701.04905
